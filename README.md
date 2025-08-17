@@ -1,5 +1,3 @@
-Here’s a polished **README.md** for your **Finance-Wellness-frontend** project based on the stack and features you shared:
-
 ---
 
 ```markdown
