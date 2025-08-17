@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 💰 Finance Wellness Frontend
 
@@ -50,7 +48,6 @@ src/
 - 📊 **Interactive Charts** – Recharts for financial data visualization  
 - 📝 **Form Handling** – React Hook Form + Zod for validation  
 - ⚡ **Fast Development** – Vite for blazing-fast builds  
-- ☁️ **Deployment** – Hosted on Netlify with continuous deployment  
 
 ---
 
@@ -88,10 +85,6 @@ npm run build
 
 
 ---
-
-## 📦 Deployment
-
-This project is deployed on **Netlify** for easy CI/CD and static site hosting.
 
 ---
 
